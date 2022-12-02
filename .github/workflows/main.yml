@@ -20,7 +20,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: main
-          path: main.pdf
+          path: ./resume-ptbr/build/curriculo-henrique-miossi/curriculo-henrique-miossi.pdf
 
   build-resume-en:
     runs-on: ubuntu-latest
@@ -40,4 +40,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: main
-          path: main.pdf
+          path: ./resume-en/build/resume-henrique-miossi/resume-henrique-miossi.pdf
