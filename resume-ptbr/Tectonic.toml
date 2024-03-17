@@ -3,5 +3,5 @@ name = 'resume-ptbr'
 bundle = 'https://data1.fullyjustified.net/tlextras-2022.0r0.tar'
 
 [[output]]
-name = 'curriculo-henrique-miossi'
+name = 'curriculo-daniel-pereira'
 type = 'pdf'
